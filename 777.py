@@ -1,0 +1,6 @@
+j=int(input("donam el primer numero (elevat a tres"))
+a=int(input("posa el segon nombre (elevat a 2)\n"))
+b=int(input("coloca el tercer numero (elvat a 1)\n"))
+c=int(input(" el terme independent\n"))
+x=int(input("valor incognita\n"))
+print("el resultat es",j*x**3+a*x**2+b*x+c)
