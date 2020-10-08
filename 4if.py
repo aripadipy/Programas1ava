@@ -1,0 +1,6 @@
+nombre1=int(input("posa un nombre"))
+nombre2=int(input("posa un altre nombre"))
+if 0>=nombre1:print("0es mes gran que",nombre1)
+else:print("0 es mes petit que",nombre1)
+if 0>=nombre2:print("0 es mes gran que",nombre2)
+else:print("0 es mes petit que",nombre2)
